@@ -8,3 +8,11 @@ An ergonomic keyboard with hot swap socket and a rotary encoder.
 
 * Keyboard Maintainer: [Sugengz](https://github.com/sugengz)
 * Hardware Availability: soon...
+
+Hardware Feature:
+* Atmega32a AU
+* ESD protection
+* RGB Underglow 
+* Kailh Hot swap socket
+
+Firmware VIA
