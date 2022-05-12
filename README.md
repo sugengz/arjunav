@@ -16,3 +16,6 @@ Hardware Feature:
 * Kailh Hot swap socket
 
 Firmware VIA
+
+![IMG_0208](https://user-images.githubusercontent.com/72374465/167885696-4deeb8e0-1ce5-43ef-a46c-9591d10df400.JPG)
+
